@@ -1,0 +1,1 @@
+more basic javascript function writing exercises for bootcamp.
